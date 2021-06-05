@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubSyncTest", "GitHubSyncTest.csproj", "{3DB215D6-4DE1-4009-B7A6-74E97EA0525B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB215D6-4DE1-4009-B7A6-74E97EA0525B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB215D6-4DE1-4009-B7A6-74E97EA0525B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB215D6-4DE1-4009-B7A6-74E97EA0525B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB215D6-4DE1-4009-B7A6-74E97EA0525B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C4D53B-DF82-45B5-A34F-72C9CDF521F1}
+	EndGlobalSection
+EndGlobal
